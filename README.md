@@ -1,2 +1,2 @@
-# presentations
-Collection of items related to my presentations
+# Presentations
+* Collection of items related to my presentations
